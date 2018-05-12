@@ -1,0 +1,32 @@
+_repo: Mildred-Arkell--Vol-3-of-3-A-Novel_39693
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wood, Henry, Mrs.
+    aliases:
+    - Wood, Mrs. Henry
+    - Ludlow, Johnny
+    - Wood, Ellen Price
+    - Price, Ellen
+    birthdate: 1814
+    deathdate: 1887
+    gutenberg_agent_id: '1177'
+    url: http://www.gutenberg.org/2009/agents/1177
+    wikipedia: http://en.wikipedia.org/wiki/Ellen_Wood_%28author%29
+description: ''
+gutenberg_issued: '2012-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39693'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: 'Mildred Arkell: A Novel. Vol. 3 (of 3)'
+url: http://www.gutenberg.org/ebooks/39693
